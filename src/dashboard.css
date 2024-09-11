@@ -1,0 +1,31 @@
+.container {
+  background-color: #ededed;
+  padding: 20px;
+  border-radius: 8px;
+} */
+
+
+
+.icon-btn {
+  color: 'black';
+  margin-right: 16px;
+  height: 37px;
+  width: 37px;
+}
+
+.logo {
+  height: 40px;
+}
+
+.drawer-paper {
+  width: 240px;
+  box-sizing: 'border-box';
+} 
+.checklogo{
+  width: 90px;
+  height: 100px;
+}
+
+
+
+
